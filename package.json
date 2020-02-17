@@ -1,6 +1,6 @@
 {
   "name": "colorblind-diff",
-  "homepage": "https://github.com/Thunderducky/colorblind-diff",
+  "homepage": "https://thunderducky.github.io/colorblind-diff",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
